@@ -1,0 +1,58 @@
+body{
+background:url(zdania.jpg) 100% 100% no-repeat;
+background-size: cover;
+color:white;
+}
+
+h1{
+color:#B43C00;
+}
+
+h2{
+color:#005028;
+}
+
+h3{
+color:#006464;
+}
+
+
+p.abz{
+margin: 50px;
+}
+
+td{
+border:1px;
+border-color:#6E6E6E;
+background-color:#464646;
+text-align:center;
+}
+
+A{
+color:#FF4000; 
+}
+
+A:visited {
+color: #cecece;
+}
+
+A:active {
+color:#FF4000; 
+}
+
+A.pesni{
+color:#B5E61D; 
+}
+
+
+.id{
+background:url(Fon.jpg) 100% 100% no-repeat;
+width:300px;
+display:none;
+margin:10px 10px 10px 10px;
+border: 1px solid white;
+}
+
+.center-pic{
+text-align:center;
+}
